@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Monobladegg/Monobladegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div>Welcome!</div>
+### - ✨ Ivan, 13, Ukraine, Frontend developer
+### - 🔥 5 months exp
+### [![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,react,ts,nodejs,express,mongodb,redux,next,docker,figma,firebase,vite,webpack,yarn,tailwind&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<details>
+  
+  <summary><strong>Обо мне</strong></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+
+  <div>
+
+  #### Амбициозный фронтенд разработчик, с опытом роботы в команде и над личными проектами, готов предлагать идеи и подходы к разработке
+    
+  </div>
+
+</details>
