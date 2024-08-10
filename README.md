@@ -12,4 +12,3 @@
 |--------------|-----------------------------------------|---------|--------------------------------------------------|------------------------------------|
 | Cave-Find    | Завершенный в конце июня 2024 года      | Личный  | [Cave-Find](https://github.com/Monobladegg/cave-find) | [Vercel](https://cave-find.vercel.app) |
 | Daily-Track  | В разработке с 01.07.24                 | Личный  | [Daily-Track](https://github.com/Monobladegg/daily-track) | -                                  |
-| Books-Shop   | В разработке с 01.07.24                 | Командный | [Books-Shop](https://github.com/ResEmCode/BooksShop) | -                                  |
